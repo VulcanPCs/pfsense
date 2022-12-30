@@ -461,3 +461,5 @@ echo ">>> ${IMAGES_FINAL_DIR} now contains:"
 set -e
 # Run final finish routines
 finish
+
+$SHELL
